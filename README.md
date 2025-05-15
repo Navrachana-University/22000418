@@ -26,4 +26,4 @@ A quick-start guide to get **Pokélang** up and running on your local machine.
 **Note: (You may need to adjust your OS privacy settings to allow local file execution.)**
 
 ### Acknowledgements
-Special Mentions: Professor Vaibhavi Patel, Department of Computer Science, SET, Navrachana University.
+Supervisor: Professor Vaibhavi Patel, Department of Computer Science, SET, Navrachana University.
